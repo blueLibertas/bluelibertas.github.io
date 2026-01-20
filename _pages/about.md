@@ -5,7 +5,7 @@ permalink: /
 subtitle: PhD Student at Georgia State University
 
 profile:
-  align: left
+  align: right
   image: Profile.jpg
   image_circular: false # crops the image to make it circular
   # more_info: >
