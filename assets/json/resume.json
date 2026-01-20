@@ -1,36 +1,41 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Jinho Kim",
+    "label": "Doctoral Student at Georgia State University",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
+    "email": "jkim485@student.gsu.edu",
+    "phone": "",
     "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "summary": "Ph.D. student in the Learning Sciences program at Georgia State University",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "United States",
+      "postalCode": "",
+      "city": "",
       "countryCode": "US",
-      "region": "California"
+      "region": ""
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "jinhokim-sininen",
+        "url": "www.linkedin.com/in/jinhokim-sininen"
+      },
+      {
+        "network": "Google Scholar",
+        "username": "Jinho Kim",
+        "url": "https://scholar.google.com/citations?user=T_p-Y5IAAAAJ&hl=en&inst=10728913187316790927"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Georgia State University",
+      "position": "Doctoral Student",
+      "url": "ai2researchlab.org",
+      "startDate": "2022.01",
+      "endDate": "",
+      "summary": "Graduate Research Assistant at AI2 Research Lab",
+      "highlights": []
     }
   ],
   "volunteer": [
@@ -151,7 +156,7 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Korean",
       "fluency": "Native speaker",
       "icon": ""
     },
