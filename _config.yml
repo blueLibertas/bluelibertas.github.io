@@ -209,6 +209,9 @@ exclude:
   - _pages/profiles.md
   - _pages/repositories.md
   - _pages/teaching.md
+  - _books
+  - _posts
+  - _teachings
   - purgecss.config.js
   - README.md
   - readme_preview/
