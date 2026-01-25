@@ -1416,7 +1416,7 @@ ninja-keys::part(ninja-input-wrapper) {
 
 // highlight-search-term
 ::highlight(search) {
-  background-color: var(--global-theme-color);
+  background-color: var(--publication-highlight-color);
   color: var(--global-text-color);
 }
 
