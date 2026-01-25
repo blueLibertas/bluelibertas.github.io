@@ -1,10 +1,10 @@
 ---
 layout: cv
-cv_format: jsonresume # options: rendercv or jsonresume
 permalink: /cv/
 title: CV
 nav: true
 nav_order: 5
+cv_format: rendercv # options: rendercv, jsonresume
 description: My journey up to now
 toc:
   sidebar: left
