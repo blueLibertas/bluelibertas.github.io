@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "Projects",
-          description: "A growing collection of your cool projects.",
+          description: "All of my projects",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -127,51 +127,21 @@ ninja.data = [{
           section: "News",},{id: "news-presented-about-smart-research-at-the-ai-aloe-national-virtual-research-showcase-news-1-news-2",
           title: 'Presented about SMART research at the AI-ALOE National Virtual Research Showcase News 1...',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-ai-aloe",
+          title: 'AI-ALOE',
+          description: "An NSF AI institude for Adult Learning and Online Education",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+              window.location.href = "/projects/AI-ALOE/";
+            },},{id: "projects-aim-high-sim",
+          title: 'AIM HIGH-SIM',
+          description: "AI-Powered Multimodal Hybrid Instruction for Growth in Nursing Simulation",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+              window.location.href = "/projects/AIM%20HIGH-SIM/";
+            },},{id: "projects-smart",
+          title: 'SMART',
+          description: "Student Mental Model Analyzer for Research and Teaching - A web-based formative assessment and feedback system for summary writing.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
+              window.location.href = "/projects/SMART/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
