@@ -29,6 +29,6 @@ latest_posts:
 
 I'm Jinho Kim, a doctoral student in the Department of Learning Sciences at [Georgia State University](https://gsu.edu). I am a graduate research assistant at [AI2 Research Lab](https://www.ai2researchlab.org/) under Dr. Min Kyu Kim. I have a B.A. in Education, a B.S.E. in Computer Science, and a M.A. in Education.
 
-As part of the NSF-funded AI institue for adult learning in online education, [AI-ALOE](https://aialoe.org), I have contributed to projects aimed at enhancing concept learning in online environemtns.
+As part of the NSF-funded AI institute for adult learning in online education, [AI-ALOE](https://aialoe.org), I have contributed to projects aimed at enhancing concept learning in online environemtns.
 
 My current interests lie in the use of artificial intelligence (AI) in education, particularly in supporting adult learners and providing formative feedback. I am also interested in how AI-powered simulations can improve nursing education.
