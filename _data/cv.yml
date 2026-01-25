@@ -26,13 +26,13 @@ cv:
         position: "Graduate Research Assistant"
         start_date: "2022-01"
         summary: "Graduate Research Assistant at the AI2 Research Lab"
-        url: "ai2researchlab.org"
+        url: "https://ai2researchlab.org"
       - company: "AI-ALOE: AI Institute for Adult Learning and Online Education"
         position: "Graduate Research Assistant"
         start_date: "2022-01"
         highlights:
           - "Graduate Research Assistant part of the SMART team"
-        url: "aialoe.org"
+        url: "https://aialoe.org"
     Projects:
       - name: "[AI-ALOE](aialoe.org)"
         summary: "An NSF AI institude for Adult Learning and Online Educationt"
