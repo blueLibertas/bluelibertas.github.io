@@ -82,8 +82,8 @@ cv:
         date: 2023
         awarder: "Department of Learning Sciences at the College of Education and Human Development at Georgia State University"
     Skills:
-      - name: "Computer Science"
-        icon: "fa-solid fa-hashtag"
+      - name: Computer Science
+        icon: fa-solid fa-hashtag
         keywords: "Python, Java, C, R, SQL, Django"
         summary: "Python, Java, C, R, SQL, Django"
     Languages:
