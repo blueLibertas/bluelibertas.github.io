@@ -1,18 +1,14 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
-importance: 2
+title: SMART
+description: Student Mental Model Analyzer for Research and Teaching - A web-based formative assessment and feedback system for summary writing.
+img: 
+redirect: https://smart.cehd.gsu.edu/SMART/
+importance: 1
 category: work
-giscus_comments: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Example Content
 
     ---
     layout: page
