@@ -2,6 +2,7 @@
 layout: page
 title: AIM HIGH-SIM
 description: AI-Powered Multimodal Hybrid Instruction for Growth in Nursing Simulation
+duration: "Aug 2024 - Present"
 img: 
 redirect: https://www.ai2researchlab.org/researchprojects
 importance: 2

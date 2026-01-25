@@ -2,6 +2,7 @@
 layout: page
 title: AI-ALOE
 description: An NSF AI institude for Adult Learning and Online Education
+duration: "Jan 2022 - Present"
 img: 
 redirect: https://aialoe.org/
 importance: 1

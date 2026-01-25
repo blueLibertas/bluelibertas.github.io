@@ -2,6 +2,7 @@
 layout: page
 title: SMART
 description: Student Mental Model Analyzer for Research and Teaching - A web-based formative assessment and feedback system for summary writing.
+duration: "Jan 2022 - Present"
 img: 
 redirect: https://smart.cehd.gsu.edu/SMART/
 importance: 1
