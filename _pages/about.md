@@ -31,4 +31,4 @@ I'm Jinho Kim, a doctoral student in the Department of Learning Sciences at [Geo
 
 As part of the NSF-funded AI institue for adult learning in online education, [AI-ALOE](https://aialoe.org), I have contributed to projects aimed at enhancing concept learning in online environemtns.
 
-My current interests lie in the use of artificial intelligence (AI) in education, particularly in supporting adult learners and providing formative feedback. I am also interested in how AI-powered simulations can improve nursing education. 
+My current interests lie in the use of artificial intelligence (AI) in education, particularly in supporting adult learners and providing formative feedback. I am also interested in how AI-powered simulations can improve nursing education.
