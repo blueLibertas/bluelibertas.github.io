@@ -6,4 +6,4 @@ related_posts: false
 selected: true
 ---
 
-Present on "Education with Generative AI" at KENTECH [News](https://www.ai2researchlab.org/news_all/92)
+Presented on "Education with Generative AI" at KENTECH [News](https://www.ai2researchlab.org/news_all/92)

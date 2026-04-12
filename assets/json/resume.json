@@ -5,7 +5,7 @@
     "image": "",
     "email": "jkim485@student.gsu.edu",
     "phone": "",
-    "url": "https://alshedivat.github.io/al-folio/",
+    "url": "",
     "summary": "Ph.D. student in the Learning Sciences program at Georgia State University",
     "location": {
       "address": "United States",
@@ -95,6 +95,20 @@
       "endDate": ""
     },
     {
+      "position": "President and Founder",
+      "organization": "Happickle at Georgia State University (Pickleball Club)",
+      "url": "",
+      "startDate": "2024-10",
+      "endDate": ""
+    },
+    {
+      "position": "President",
+      "organization": "Korean Graduate Student Association at Georgia State University",
+      "url": "",
+      "startDate": "2023-05",
+      "endDate": "2024-04"
+    },
+    {
       "position": "Volunteer",
       "organization": "Lifeline Animal Project",
       "url": "https://lifelineanimal.org/volunteer/",
@@ -109,18 +123,11 @@
       "endDate": "2025-04"
     },
     {
-      "position": "President and Founder",
-      "organization": "Happickle at Georgia State University (Pickleball Club)",
+      "position": "Volunteer",
+      "organization": "GSU Days of Service: Atlanta Zoo",
       "url": "",
-      "startDate": "2024-10",
-      "endDate": ""
-    },
-    {
-      "position": "President",
-      "organization": "Korean Graduate Student Association at Georgia State University",
-      "url": "",
-      "startDate": "2023-05",
-      "endDate": "2024-04"
+      "startDate": "2025",
+      "endDate": "2025"
     }
   ],
   "awards": [
